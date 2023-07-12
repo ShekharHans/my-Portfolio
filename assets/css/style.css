@@ -1105,9 +1105,13 @@ textarea {
     .rating-title{
         left: 10px;
         text-align: center;
+        width: 289px;
     }
     .rating-title::after{
         display: none;
+    }
+    textarea{
+        width: 324px;
     }
 }
 
